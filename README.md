@@ -1,10 +1,12 @@
 Simple API that serves Kortepohja's bus times.
 
 
-Run application and go to localhost:300 and you get something like this:
+Idea of this application is to provide bus information for ESP32 board that
+show information in waveshare e-ink monitor.
+
+Run application and go to `http://localhost:300` and you get something like this:
 
 ```
-
      BUSSIAIKATAULUT
 
    22:46|18K 00:16|18
